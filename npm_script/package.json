@@ -1,0 +1,12 @@
+{
+  "name": "npm_script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "8a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 8a.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
